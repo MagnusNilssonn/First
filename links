@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <link rel="stylesheet" href="index.css" type="text/css">
+    </head>
+    
+    <body>
+        <div id="menu">
+            <a href="#home" rel="help">Home</a>
+           <a href="#about" rel="help">About</a>
+           <a href="#gallery" rel="help">Gallery</a>
+           <a href="#contact" rel="help">Contact</a>
+            
+            
+        </div>
+        <div id="home">
+            <h1 class="full-height">Home</h1>
+        </div>
+        <div id="about">
+            <h1 class="full-height">About</h1>
+        </div>
+        <div id="gallery">
+            <h1 class="full-height">Gallery</h1>
+        </div>
+        <div id="contact">
+            <h1 class="full-height">Contact</h1>
+        </div>
+    </body>
+</html>
